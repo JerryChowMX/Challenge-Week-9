@@ -44,4 +44,4 @@ Email: your@email.com
 
 - [Inquirer.js](https://www.npmjs.com/package/inquirer)
 - [Node.js](https://nodejs.org/)
-- [Shields.io](https://shields.io/) for badges
+
