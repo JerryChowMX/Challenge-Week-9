@@ -37,8 +37,8 @@ This project is open-source and available under the MIT License.
 
 ## Contact
 
-Developer: Your Name
-Email: your@email.com
+Developer: Jerry Chow  
+Email: jerrychowmx@gmail.com
 
 ## Acknowledgements
 
